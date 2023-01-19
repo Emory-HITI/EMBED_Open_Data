@@ -2,11 +2,19 @@
 Data descriptor and sample notebooks for the Emory Breast Imaging Dataset (EMBED) hosted on the AWS Open Data Program
 **EMBED Overview:**  
 
-I. **Summary**
+**I. Summary**
 
 EMBED contains 364,000 screening and diagnostic mammographic exams for 110,000 patients from four hospitals over an 8-year period. The EMBED AWS Open Data release represents 20% of the dataset divided into two equal cohorts at the patient level. This release of the dataset includes 2D and C-view images. Digital breast tomosynthesis, ultrasound, and MRI exams will be added at a later date.
 
-II. **Summary Statistics**
+**II. Primer on Mammography**
+
+A full discussion on screening mammography is beyond the scope of this documentation, however we will provide a brief primer. In the United States, women are recommended annual screening mammography beginning at age 40 and biennially after age 55. Screening mammograms are recommended for **asymptomatic** patients to detect occult breast cancer. Approximately 90% of screeninng mammograms are normal, and assigned a BIRADS 1 (negative) or BIRADS 2 (benign) after which the woman will return to screening in 1-2 years. However, approximately 10% of screening exams demonstrate an abnormality that requires further imaging and are assigned BIRADS 0 (additional evaluation). BIRADS 3 is a special case where there is low suspicion and the woman will return for screening again in 6 months.
+
+If a woman is assigned BIRADS 0, she will proceed to diagnostic mammogram with special views including compression and magnification paddles. She may also undergo concurrent ultrasound. In 2/3 of diagnostic mammograms, the finding disappears or is resolved as benign and the woman will be assigned BIRADS 1 or 2. In 1/3 of diagnostic mammograms, the finding persists and the woman is assigned a BIRADS score of 4 (suspicious) or 5 (highly suspicious) and will proceed to biopsy. Approximately 2/3 of biopsy results are benign and the woman will return to annual screening. Approximately 1/3 of biopsy results are malignant in which case she will go for further imaging (MRI to evaluate extent of disease) and/or surgical resection (lumpectomy or mastectomy). The patient will receive diagnostic mammograms for several years after this before returning to annual screening.
+
+Lastly, **symptomatic** patients do not receive screening mammography. Any patient with pain, discharge, or other symptoms would go straight to diagnostic mammography where they will be evaluated, assigned a BIRADS score, and proceed to biopsy or further imaging if indicated. In these cases, patients may have a pathology result linked to a diagnostic exam that is NOT preceeded by a screening exam.
+
+**III. Summary Statistics**
    1. **Total Patients**: 22,382
    1. **Total Exams**: 76,373
       1. Screening: 72% 
@@ -24,19 +32,19 @@ II. **Summary Statistics**
       1. Asian: 6.5% 
    1. **Ethnicity**: 5.6% Hispanic
 
-III. **File Structure**
+**IV. File Structure**
 
 The dataset is structured as **./cohort/patient\_ID/study\_ID/SOPinstanceUID.dcm**
 
 Each cohort contains 11,000 unique patients and **all** exams for those patients. There is no overlap in patients or exams between cohorts 1 and 2. All exams over time for a patient will be contained in the same **./cohort/patient\_ID/** folder. Similarly, all images for an exam will be contained in the same **./cohort/patient\_ID/study\_ID/** folder. 
 
-IV. **Data Tables**
+**V. Data Tables**
    1. Data tables are located in the **./tables** subfolder
-   1. **EMBED\_OpenData\_clinical.csv** contains clinical information for exams and is structured as one row *per* *finding* as described by the radiologist. Information includes exam type, imaging descriptors (mass, calcification), laterality of findings, pathology results, and patient demographics. Detailed information is in section V.
-   1. **EMBED\_OpenData\_metadata.csv** contains image level information and is structured as one row *per file*. Information includes DICOM metadata, ROI location, image type (2D, 3D, c-view), and file path. Detailed information in section VI.
+   1. **EMBED\_OpenData\_clinical.csv** contains clinical information for exams and is structured as one row *per* *finding* as described by the radiologist. Information includes exam type, imaging descriptors (mass, calcification), laterality of findings, pathology results, and patient demographics. Detailed information is in section VI.
+   1. **EMBED\_OpenData\_metadata.csv** contains image level information and is structured as one row *per file*. Information includes DICOM metadata, ROI location, image type (2D, 3D, c-view), and file path. Detailed information in section VII.
    1. **EMBED\_OpenData\_clinical\_reduced.csv** and **EMBED\_OpenData\_metadata\_reduced.csv** contain reduced numbers of fields that represent the most frequently used information from each file. This may be easier to work with for beginners and faster to load.
 
-V. ` `**Clinical Data**
+**VI. Clinical Data**
 
 The file **EMBED\_OpenData\_clinical.csv** contains all clinical data and demographics data collected for an exam, as detailed below. In this file, **each row represents a single finding** on mammography, and therefore there can be 1 to several rows per exam. These data are entered by the radiologist at the time of interpretation. Pathology information is entered retroactively by an administrator for all patients who receive breast biopsies, lumpectomies, or mastectomies and are attributed to the original finding that led to the biopsy/surgery.  
 
@@ -77,7 +85,7 @@ The file **EMBED\_OpenData\_clinical.csv** contains all clinical data and demogr
 |ETHNIC\_GROUP\_DESC|Patient Ethnicity|
 
 
-VI. **Metadata**
+**VII. Metadata**
 
 Contains image level information and is structured as one row per file. Information includes DICOM metadata, ROI location, image type (2D, 3D, c-view), and file path. 
 
@@ -100,7 +108,7 @@ Contains image level information and is structured as one row per file. Informat
 |<p>SRC\_DST</p><p></p>|<p>A list of the source/destination file of each ROI in the ROI\_coords to be used for troubleshooting in case of suspicion that an ROI is applied to/from the wrong image.</p><p>For rows where the image is a 2D or C-view, this field contains the source file of the screensave image that ROI was extracted from. </p><p>For a row where the image is a screensave, this field contains the 2D or C-view image that the ROI was copied to. </p><p></p>|
 |match\_level|<p>ROIs can be marked by radiologists on either 2D or C-view images at the time of interpretation. Because 2D and C-view images are very similar, ROIs that are applied to a 2D image can be translated to a C-view image and vice versa. *This is represented as a vector matching the length of ROI\_coords for a given image.*</p><p>**1**: indicates this ROI from the screensave was directly mapped to this image as a **primary match.** These ROIs are most reliable and have little to no errors.</p><p>**2:** indicates this ROI was generated as a **secondary** **match**. For example, if a screensave had a primary match to a 2D L CC view, the secondary match will be the C-view L CC view. These ROIs are slightly less robust and can be eliminated if you are experiencing noisy data.</p>|
 
-VII. **Special Note: Merging Clinical and Metadata files** 
+**VIII. Special Note: Merging Clinical and Metadata files** 
 
 A recurring challenge for many new users is merging information from the clinical and metadata files due to differences in the way these data are indexed. The clinical data is indexed by individual findings which can correspond to either breast and also varies by exam. The metadata is indexed by file wherein each row corresponds to one image. Both of these files can be linked by patient ID (empi\_anon), exam ID (acc\_anon), and laterality of the clinical finding and image.
 
@@ -115,3 +123,8 @@ To do this, use the *side* field in clinical data (L, R, B) and only merge rows 
 
 This resultant table will have each clinical finding mapped to its corresponding files in metadata. Note that files **can** still be repeated in the joined table. For example, if a given accession has 2 findings in the left breast, each finding will be mapped to all the left breast images, resulting in each left breast image appearing twice in the resultant dataframe - once for *numfind1* and again for *numfind* 2. This is expected behavior.
 
+**IX. Special Note: Pathology Results in Clinical Data**
+
+In typical mammography screening workflow, an abnormal screening study (BIRADS 0) proceeds to a diagnostic study. If the diagnostic study is deemed suspicious (BIRADS 4 or 5), the patient will proceed to biopsy followed by surgery if indicated.
+
+Each of these pathology results is recorded by a human administrator and linked the exam and finding from which they originated. That means that if a screening study has a finding that triggers diagnostic exam and biopsy, the resultant pathology result would be recorded on rows for **both** the screening and diagnostic exams in the clinical dataframe. Similarly, if the patient proceeds to surgery, the pathology result from surgery will also be recorded in the appropriate rows for both exams. **However, because this is a manual process there is potential for error in which the pathology result is recorded only to the diagnostic study and not the screening exam.** In this case, it may be useful to create a table of patient ID, pathology specimen date, and pathology results and then manually attribute results back to prior studies based on a date range.
