@@ -1,0 +1,1173 @@
+﻿Header in export,Discription,Code,Meaning
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA10     ,"MAMMO, BILAT, UP TO 8 FILMS                       "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1740,MG CT Breast w/wo Chemo Lt                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1738,MG CT Breast w/wo Chemo Rt                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA09     ,"MAMMO, UNILAT, UP TO 4 FILMS                      "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA15     ,BIL MAMMO SCREEN UP TO 8 FILMS                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1739,MG CT Breast w/wo Seed/Con Lt                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1737,MG CT Breast w/wo Seed/Con Rt                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",DMA15     ,BIL MAMMO SCREEN DIGITAL                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA14R    ,"UNI MAMMO SCREEN, RT, TO 4 FLM                    "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1741,MG CT Breast wo Seed/NC Lt                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1742,MG CT Breast wo Seed/NC Rt                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA14L    ,"UNI MAMMO SCREEN, LT, TO 4 FLM                    "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",DMA09L    ,"MAMMO, UNILAT,LT, DIGITAL                         "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",DMA14L    ,"UNI MAMMO SCREEN, LT, DIGITAL                     "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1683,MG No Outside Film Avail                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",DMA09R    ,"MAMMO, UNILAT,RT,DIGITAL                          "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1834,MG Consult for Eval/Manage w/Chg                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",DMA10     ,"MAMMO, BILAT, DIGITAL                             "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",698,MG Comp to Outside Film                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1682,MG Consultation Outside Film                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA09L    ,"MAMMO, UNILAT,LT,UP TO 4 FILMS                    "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA09R    ,"MAMMO, UNILAT,RT,UP TO 4 FILMS                    "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2294,MG Breast Outside Image Consult                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2296,MG US Breast Outside Image Consult                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM24      ,RESEARCH MAMMO SCRN BIL DIGITL                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM02      ,MAMMO SCREENING BILATERAL                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2300,MRI Breast Outside Image Consult                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM21      ,RESEARCH MAMMO UNI DIGITAL                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM03      ,MAMMO DIAGNOSTIC UNILATERAL                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",679,MG Diagnostic Bilateral w/ CAD                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",682,MG Diagnostic Left w/CAD                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM04      ,MAMMO DIAGNOSTIC BILATERAL                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM23      ,RESEARCH MAMMO SCRN UNI DIGITL                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",684,MG Diagnostic Right w/CAD                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",678,MG Diagnostic Mammo Bilateral w/ CAD              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM22      ,RESEARCH MAMMO BIL DIGITAL                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MU06      ,U/S BILATERAL BREAST                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",686,MG Diagnostic Mammo Left w/CAD                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",688,MG Diagnostic Mammo Right w/CAD                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MU07      ,U/S UNILATERAL BREAST                             
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM01      ,MAMMO SCREENING UNILATERAL                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",677,MG Diagnostic Mammo Bilateral                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",681,MG Diagnostic Left                                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM18      ,MAMMO W/COMPARISON TO OSF N/C                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM13      ,MAMMO SPECIMEN RADIOGRAPH                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",683,MG Diagnostic Right                               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM17      ,"TECH RECALL, FOLLOW-UP N/C                        "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2125,MG Diagnostic Bilateral w/Tomosynthesis           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2126,MG Diagnostic  Left w/Tomosynthesis               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM09      ,Mammo Stereo Bx W/vac W/clip                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MU03      ,U/S GUIDED CORE BIOPSY                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2127,MG Diagnostic  Right w/Tomosynthesis              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2170,MG Diagnostic Bilateral w/Tomo/CAD                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MU04      ,U/S GUIDED LOCALIZATION                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",AMR792    ,MRI BREAST UNI WITH & WITHOUT                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2171,MG Diagnostic  Left w/Tomo/CAD                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2172,MG Diagnostic  Right w/Tomo/CAD                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM14      ,MAMMO DIGITAL DIAG UNILATERAL                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM16      ,MAMMO DIGITAL SCREENING BIL                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",680,MG Diagnostic Mammo Bilateral                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",685,MG Diagnostic Mammo Left                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MME2      ,"MAMMO BILATERAL, CO.PHYSICAL                      "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",AMR89     ,MRI BREAST BILATERAL                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",687,MG Diagnostic Mammo Right                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MU08      ,U/S CYST ASPIRATION BREAST                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",AMR79     ,MRI BREAST UNILATERAL WITH CON                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",699,MG Screening Bilateral                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",703,MG Screening Left                                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM05      ,MAMMO MAMMARY DUCT SINGLE                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA14     ,UNI MAMMO SCREEN UP TO 4 FILMS                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",700,MG Screening Bilateral w/CAD                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",701,MG Screening Bilateral                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM19      ,MAMMO CLIP PLACEMENT ONLY                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MU01      ,U/S GUIDED FNA                                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",702,MG Screening Bilateral w/CAD                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM08      ,MAMMO STEREO BX W/VAC ASSIST                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2122,MG Screening Bilat w/Tomosynthesis                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2153,MG Screen Bilat w/Tomo/CAD Stnd Protocol          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MU09      ,U/S CYST ASPIRATION EA ADDL                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MME1      ,"MAMMO UNILATERAL, CO.PHYSICAL                     "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",704,MG Screening Left w/CAD                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM32      ,RESEARCH BIL STEREO DIG MAMMO                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2123,MG Screening Left w/Tomosynthesis                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2155,MG Screening Left w/Tomo/CAD                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",CMR792    ,MRI BREAST UNILATERAL W&WO                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MU05      ,U/S GUIDED LOC EACH ADDITIONAL                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",705,MG Screening Right                                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",706,MG Screening Right w/CAD                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM31      ,RESEARCH UNI STEREO DIG MAMMO                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM15      ,MAMMO DIGITAL DIAG BILATERAL                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2124,MG Screening Right w/Tomosynthesis                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2154,MG Screening Right w/Tomo/CAD                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM11      ,MAMMO NEEDLE LOCALIZATION                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM25      ,O/S FILMS/CONSULT W/CHARGE                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",707,MG Screening Left                                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",708,MG Screening Left w/CAD                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM12      ,MAMMO NEEDLE LOC EA ADDL SITE                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM06      ,MAMMO MAMMARY DUCT MULTIPLE                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",709,MG Screening Right                                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",710,MG Screening Right w/CAD                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MRB020    ,MRI BREAST BIL W/ + W/O CONT                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM03    ,MAMMO SCREENING UNILATERAL                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM07    ,MAMMO DIAGNOSTIC UNILATERAL                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",689,MG Ductogram Multi Bilateral                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",690,MG Ductogram Multi Left                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSO12    ,OP SONO UNILAT BREAST                             
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM23    ,MAMMO STEREO BIOPSY                               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",691,MG Ductogram Multi Right                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",692,MG Ductogram Single Bilateral                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM00    ,MAMMO SCREENING BILATERAL                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM05    ,MAMMO DIAGNOSTIC BILATERAL                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",693,MG Ductogram Single Left                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",694,MG Ductogram Single Right                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM40    ,MAMMO WITH COMPARISON TO OSF                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSO09    ,OP SONO BILAT BREAST                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM35    ,MAMMO ADD VIEW                                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",676,MG Clip Placement w/o Biopsy                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",695,MG Needle Loc Wire Bilateral                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM14    ,MAMMO MAMMARY DUCT SINGLE                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM25    ,MAMMO NEEDLE LOCALIZATION                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",696,MG Needle Loc Wire Left                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",697,MG Needle Loc Wire Right                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSI12    ,IP SONO BREAST                                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSO08    ,OP US BREAST BX (NEEDLE CORE)                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",6441,MG Reflector Placement Bilateral                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",6439,MG Reflector Placement Left                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM08    ,MAMMO SAME DAY DIAGNOS UNILAT                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM98    ,MAM INCOMPLETE EXAM DOCUMENTED                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",6440,MG Reflector Placement Rt                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",711,MG Specimen Radiograph                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSO07    ,OP US BREAST BX (MAMMOTOME)                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM55    ,MAM OUTSIDE FILM CONSULT NO CH                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2665,MG Specimen Only/Reflector Specimen               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",712,MG Stereo Biopsy Perc Needle Core                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM22    ,MAM STEREO BX VAC ASST W/CLIP                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",US050     ,US BREAST(S)                                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",713,MG Stereo Biopsy w/Vac Asst w/ Clip Bil           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",714,MG Stereo Biopsy w/Vac Asst w/ Clip LT            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM27      ,MM DIGITAL SCREENING MAMMO UNI                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",US035     ,US BREAST BX MAMMOTOME                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",715,MG Stereo Biopsy w/Vac Asst w/ Clip RT            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",716,MG Stereo Biopsy w/Vac Asst w/o Clip Bil          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM30      ,MM DIAGNOSTIC SAME DAY MAM BIL                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM29      ,MM DIAGNOSTIC SAME DAY MAM UNI                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",717,MG Stereo Biopsy w/Vac Asst w/o Clip LT           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",718,MG Stereo Biopsy w/Vac Asst w/o Clip RT           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM95      ,INCOM EXAM DICTATED                               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM90      ,MM LCRG SCREENING MAMMO                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",719,MG Stereo Needle Loc Wire Bilateral               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",720,MG Stereo Needle Loc Wire Left                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",US040     ,US BREAST BIOPSY NEEDLE CORE                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",US044     ,US BREAST CYST ASPIRATION                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",721,MG Stereo Needle Loc Wire Right                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM040     ,MM DIAGNOSTIC MAMMO BIL W/CAD                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM96      ,RADIOLOGIST DICT N/S                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",723,MG US Breast Cyst Aspiration Bilat                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1571,MG US Breast Cyst Aspiration Left                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM150     ,MM DIAG DIGITAL MAMM BIL/W CAD                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM160     ,MM SCRN DIGIT MAMMO BIL/W CAD                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",724,MG US Breast Cyst Aspiration Right                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",US034     ,US BREAST BX MAMMOTOME/CLIP                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2342,MG US Breast Abscess/Hematoma Asp Left            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2343,MG US Breast Abscess/Hematoma Asp Right           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM270     ,MM SCRN DIGIT MAMMO UNI W/CAD                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM010     ,MM SCREENING MAMMO UNI W/CAD                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",725,MG US Breast Guided Bx w/Vac Asst Bilat           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",726,MG US Breast Guided Bx w/Vac Asst Right           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM020     ,MM SCREENING MAMMO BIL W/CAD                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM140     ,MM DIAG DIGITAL MAMM UNI/CAD                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1572,MG US Breast Guided Bx w/Vac Asst Left            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",727,MG US Breast Guided Core Bx Bilat                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM031     ,MM DIAGNOSTIC MAMMO UNI W/CAD                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",US045     ,US BREAST NEEDLE LOC                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",728,MG US Breast Guided Core Bx Right                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1573,MG US Breast Guided Core Bx Left                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM28      ,MM NO OSF AVAIL/CAT 0 REREAD                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMS05     ,READ O/S FILMS WITH CHARGE                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",722,MG US Breast Bilateral                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",730,MG US Breast Left                                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BUS02     ,US-HAND HELD/ UNILATERAL                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA13     ,RADIOLOGIST REQUEST O/S FILMS                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",731,MG US Breast Right                                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA19     ,RECALL MAMMOGRAPHY                                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2210,MG US Breast Bilateral Complete                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2194,MG US Breast Left Complete                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BUS01     ,US-HAND HELD/ BILATERAL                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMS04     ,READ-OUTSIDE FILMS NO CHARGE                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2196,MG US Breast Right Complete                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2211,MG US Breast Bilateral Limited                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA02     ,WIRE LOCALIZATION UNILATERAL                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA03     ,MAMMOGRAPHY ADD. FILMS EACH                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2197,MG US Breast Right Limited                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2195,MG US Breast Left Limited                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BUS19     ,CYST ASPIRATION UNDER US GUIDE                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KMA10     ,"CMG MAMMO, BILATERAL 4-6 FILMS                    "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",732,MG US Needle Loc Wire Bilat                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1574,MG US Needle Loc Wire Left                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KMA15     ,CMG BILATERAL MAMMO SCREENING                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA14     ,UNILATERAL MAMMOGRAM SCREENING                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1575,MG US Needle Loc Wire Right                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",6442,MG US Reflector Placement Left                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA22     ,IMPLANTS BILATERAL SCREENER                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KMA19     ,CMG RECALL MAMMOGRAPHY                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",6443,MG US Reflector Placement Right                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",6444,MG US Reflector Placement Bilateral               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HMA10     ,MAMMOGRAPHY/BILATERAL 4 FILMS                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA23     ,CORE BX.                                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2192,MG US Axilla Only Left                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2193,MG US Axilla Only Right                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA24     ,RECALL MAMMOGRAPHY NO CHARGE                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",PMA02     ,BILATERAL MAMMO. CO. PHYSICAL                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2215,MG US Axilla Only Bilateral                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA01     ,WIRE LOCALIZATION BILATERAL                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2388,MG US Axillary Lymph Node Bx Bilateral            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA11     ,"SPOT FILMS, FOLLOW-UP N/C                         "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1794,MG US Axillary Lymph Node Bx Left                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1795,MG US Axillary Lymph Node Bx Right                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HEP15     ,BILATERAL MAMMO. HOSP. EMPLOY                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KMA09     ,CMG MAMMO UNILAT 2-3 FILMS                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2686,MG US Axillary Lymph Node Bx w/Clip LT            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2687,MG US Axillary Lymph Node Bx w/Clip RT            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA12     ,NEEDLE BX AND ASPIR. OF BREAST                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KMA14     ,CMG MAMMO UNILATERAL SCREENING                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2497,MG US Breast Axillary Lymph Node Bx Left          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2498,MG US Breast Axillary Lymph Node Bx Right         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HMA01     ,WIRE LOCALIZATION/UNILATERAL                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HMA15     ,EUH/BIL MAMMO/SCREENING                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2341,MG US Biopsy Lymph Node Superficial               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1796,MG US Breast Clip Placement Bilateral             
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HMA02     ,WIRE LOCALIZATION/BILATERAL                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HMA23     ,EUH CORE BX                                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1797,MG US Breast Clip Placement Left                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1798,MG US Breast Clip Placement Right                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA04     ,SPECIMEN - 2VIEWS                                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BAC02     ,"MAMMO, BIL. BIC AM.CAN.SCREEN                     "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1799,MG US Breast Drain Placement Bilateral            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1800,MG US Breast Drain Placement Left                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KBN16     ,ELBOW COMPLETE 3 OR MORE VIEWS                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",PMA01     ,UNILATERAL MAMMO CO. PHYSICAL                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1801,MG US Breast Drain Placement Right                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1802,MG US Breast Ductogram Bilateral                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KMA11     ,"SPOT FILMS, FOLLOW-UP N/C                         "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",DBN16     ,ELBOW COMPLETE 3 OR MORE VIEWS                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1803,MG US Breast Ductogram Left                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1804,MG US Breast Ductogram Right                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA26     ,IMPLANTS BILATERAL DIAGNOSTIC                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA25     ,IMPLANT UNILATERAL DIAGNOSTIC                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1805,MG US Breast Guided FNA Bilateral                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1806,MG US Breast Guided FNA Left                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA21     ,IMPLANT UNI SCREEN UP TO 4 FLM                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",JBN16     ,ELBOW COMPLETE 3 OR MORE VIEWS                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1807,MG US Breast Guided FNA Right                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1808,MG US Breast Specimen Left                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KMA22     ,CMG IMP BIL SCR UP TO 8 FILMS                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KMS04     ,CMG READ O/S FILMS NO CHARGE                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1809,MG US Breast Specimen Right                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KMA13     ,RADIOLOGIST REQUEST O/S FILMS                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HMA09     ,MAMMOGRAPHY/UNILATERAL 2 FILMS                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2703,MRI Breast Abbreviated Scrn w+w/o Con Bi          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HMA14     ,EUH SCREENING MAMMO UNI/2 FILM                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2713,MRI Breast Abbreviated Scrn w+w/o Con Lt          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2714,MRI Breast Abbreviated Scrn w+w/o Con Rt          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",NBN16     ,ELBOW COMPLETE 3 OR MORE VIEWS                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BAC01     ,"MAMMO, UNI. BIC AM.CAN.SCREEN                     "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",786,MRI Breast Bx Perc Ndl Core Bilateral             
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",787,MRI Breast Bx Perc Ndl Core Left                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",FUS52     ,US/UPPER EXT VEIN BILATERAL                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",KUS36     ,ULTRASOUND DUPLEX CAROTID                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",788,MRI Breast Bx Perc Ndl Core Right                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2425,MRI Breast w/+ w/o Contrast Bil Abbrev            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",789,MRI Breast Bx Perc w/Vac Assist Bilat             
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BUS28     ,US CYST ASPIR 2 ONLY                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BUS29     ,US CYST ASPIR - 3 OR MORE                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",790,MRI Breast Bx Perc w/Vac Assist Left              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",791,MRI Breast Bx Perc w/Vac Assist Right             
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA31     ,EACH ADD NEEDLE USED ON 1 LES                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA28     ,STEREOTACTIC FNA OF BREAST                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",792,MRI Breast w/ + w/o Contrast Bilateral            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",793,MRI Breast w/ + w/o Contrast Left                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SBN16     ,ELBOW COMPLETE 3 OR MORE VIEWS                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA27     ,WIRE/TACK LOC-3 OR MORE LESION                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",794,MRI Breast w/ + w/o Contrast Right                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",795,MRI Breast w/ Contrast Bilateral                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",FUS05     ,US/LIVER                                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",AGV19     ,ANGIOGRAPHY-INTERNAL MAMMARY                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",796,MRI Breast w/ Contrast Left                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",797,MRI Breast w/ Contrast Right                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA29     ,CORE BX X 2                                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",PUS02     ,US-HAND HELD/ UNILATERAL                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",798,MRI Breast w/o Contrast Bilateral                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",799,MRI Breast w/o Contrast Left                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA15     ,BIL MAMMO SCREEN UP TO 8 FILMS                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA22     ,IMPLANT BIL SCREEN UP TO 8 FLM                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",800,MRI Breast w/o Contrast Right                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1685,MRI Breast Needle Loc Wire Bilateral              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA11     ,"TECH RECALL, FOLLOW-UP N/C                        "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA10     ,"MAMMO, BILAT, UP TO 8 FILMS                       "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1686,MRI Breast Needle Loc Wire Left                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1687,MRI Breast Needle Loc Wire Right                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SSP05     ,C-SPINE W/ADD. FILM 7 VIEWS                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA24     ,RECALL MAMMOGRAPHY NO CHARGE                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA09     ,"MAMMO, UNILAT, UP TO 4 FILMS                      "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1104,US Breast Bilateral                               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1108,US Breast Left                                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA19     ,RECALL MAMMOGRAPHY                                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMS04     ,READ-OUTSIDE FILMS NO CHARGE                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2201,US Breast Left Limited                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SUS91     ,"US-BREAST, UNILATERAL                             "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1112,US Breast Right                                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMS05     ,O/S FILMS/CONSULTATION                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2203,US Breast Right Limited                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SUS90     ,"US-BREAST, BILATERAL                              "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1745,US Breast Core Biopsy w/Clip Bilateral            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1746,US Breast Core Biopsy w/Clip Left                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA03     ,MAMMOGRAPHY ADD. FILMS EACH                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA20     ,MAMMO ADDITIONAL FILMS (1-2)                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1747,US Breast Core Biopsy w/Clip Rt                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1105,US Breast Cyst Aspiration Bilateral               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",GMA15     ,SCREENING MAMMO-OSLANDER RES                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SUS04     ,US-BREAST                                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1106,US Breast Cyst Aspiration Left                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1107,US Breast Cyst Aspiration Right                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HCT62     ,CT-CERVICAL SPINE WITH CONTR.                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA12     ,"FNA OF BREAST, EACH                               "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1756,US Breast Drain Placement                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1088,US Breast Guid Bx w/Vac Asst w/Clip Bil           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA21     ,IMPLANT UNI SCREEN UP TO 4 FLM                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA26     ,IMPLANTS BILATERAL DIAGNOSTIC                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1089,US Breast Guid Bx w/Vac Asst w/Clip Lt            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1090,US Breast Guid Bx w/Vac Asst w/Clip Rt            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMA25     ,IMPLANT UNILATERAL DIAGNOSTIC                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",PMA22     ,BIL MAMMO - FITZGERALD                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1085,US Breast Guided Bx w/Vac Asst Bilat              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1086,US Breast Guided Bx w/Vac Asst Left               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SMR25     ,MRI BRAIN WITHOUT CONTRAST                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",DUS02     ,US-BREAST                                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1087,US Breast Guided Bx w/Vac Asst Right              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA20     ,MAMMO ADDITIONAL FILMS (1-2)                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1079,US Breast Guided Core Bx Bilateral                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",M04       ,"MAMMO, UNILAT, UP TO 4 FILMS                      "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1080,US Breast Guided Core Bx Left                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1084,US Breast Guided Core Bx Right                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",WCT52     ,CT-EXTREMITY                                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA32     ,"MAMMOTOME BX, STEREO LOC                          "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1109,US Breast Needle Localization Bilateral           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1110,US Breast Needle Localization Left                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA33     ,CLIP PLACEMENT                                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA30     ,"MAMMOTOME BX, STER LOC, X3                        "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1111,US Breast Needle Localization Right               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1749,US Breast Specimen Left                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",AMR98     ,MRI BREAST UNILATERAL                             
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",WFA20     ,"SKULL, 1-3 VIEWS                                  "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1750,US Breast Specimen Right                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1781,US Breast Axillary Lymph Node Biopsy              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA34     ,DUCTOGRAM SINGLE DUCT                             
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",AMR861    ,MRI UPPER EXTR WITH CONTRAST                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",HMA12     ,EUH NEEDLE BX & ASP. OF BREAST                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1783,US Breast Ductogram Bilateral                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1784,US Breast Ductogram Right                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",DMA11     ,"TECH RECALL, FOLLOW-UP N/C                        "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA36     ,PERC NEEDLE CORE BX W/U/S GUID                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1789,US Breast Ductogram Left                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA37     ,NDL LOC WIRE PLCMT W/U/S GUID                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SSP04     ,CSPINE 4+ VIEWS                                   
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1992,MG RS Breast 3D Bilateral                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1985,MG RS CT Breast Vascular Calc Rt                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",PUS01     ,US-HAND HELD/ BILATERAL                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA98     ,NEW/ESTAB VISIT OUTPATIENT                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1986,MG RS CT Breast Vascular Calc Lt                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1987,MG RS Stereo Dig Mammo Bilateral                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",DMA14R    ,"UNI MAMMO SCREEN, RT, DIGITAL                     "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",AMR791    ,MRI BREAST UNILATERAL WITHOUT                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMA321    ,"MAMMOTOME BX, U/S GUIDANCE                        "
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2212,US Breast Bilateral Complete                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2213,US Breast Bilateral Limited                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",BMS13     ,MISC.SUPPLY CODE FOR BREAST BX                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM07      ,MAMMO STEREO WIRE LOCALIZATION                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2200,US Breast Left Complete                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",AMR891    ,MRI BREAST BILATERAL                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM10      ,MAMMO STEREO BX PERC NDL CORE                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2654,MG Diagnostic Bilateral CESM                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2655,MG Diagnostic Left CESM                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",CMR89     ,MRI BREAST BILATERAL WITH                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",CMR891    ,MRI BREAST BILATERAL                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2662,MG Diagnostic Right CESM                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",EMR861    ,MRI UPPER EXTR WITH CONTRAST                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",WBN39     ,AXIAL BONE SURVEY                                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2695,MG Screening Bilateral CESM                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2696,MG Screening Right CESM                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MU02      ,U/S GUIDED BX W/VACUUM ASSIST                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",CMR791    ,MRI BREAST UNILATERAL WO CONT                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2697,MG Screening Left CESM                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",CMR79     ,MRI BREAST UNILATERAL W CONT                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MRB010    ,MRI BREAST BIL WITH CONTRAST                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MRB035    ,MRI BREAST UNI W/O CONTRAST                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MRE015    ,MRI UPP EXTR W/CONT                               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MRB040    ,MRI BREAST UNI W/+W/O CONT                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MRX045    ,MRI BREAST BIOPSY                                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MRB015    ,MRI BREAST BIL WITHOUT CONT                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",IRG075    ,IR ANGIO INTERNAL MAMMARY                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM36      ,MM CAD SCREENING MAMMO                            
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MME20     ,MM MAMMO BIL DIGITAL CO. PHYS                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM20      ,NEW/ESTAB VISIT OUTPATIENT                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MRB030    ,MRI BREAST UNI W CONTRAST                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM30    ,SPECIMAN RADIOGRAPH                               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSO69    ,OP SONO CYST ASPIRATION                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM20    ,MAMMO STEREO LOCALIZATION                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM15    ,MAMMO MAMMARY DUCT MULTIPLE                       
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSO14    ,OP US NEEDLE LOC                                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSO13    ,OP SONO OF SPECIMEN                               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM33    ,DIGITAL  SCREENING                                
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM31    ,DIGITAL DIAGNOSTIC UNILATERAL                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM32    ,DIGITAL DIAGNOSTIC BILATERAL                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM41    ,MAM NO COMP AVAIL/REREAD CAT 0                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSI29    ,IP SONO BREAST BIOPSY                             
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSI26    ,IP SONO BREAST BIOPSY NEEDLE                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM45    ,LCRG SCREENING MAMMO                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XMRB03    ,MR BREAST UNI WITH/WITHOUT CON                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM34    ,DIGITAL SCREENING UNILATERAL                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM27    ,NEEDLE LOC ADDITIONAL SITE                        
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM09    ,MAMMO SAME DAY DIAGNOS BILAT                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XMRB02    ,MR BREAST UNI WITHOUT CONTRST                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XMRB04    ,MR BREAST BIL WITH/WITHOUT CON                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XMRB08    ,MR BREAST BIL WITHOUT CONTRAS                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XUSI25    ,IP SONO BREAST NEEDLE LOC                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM99    ,RADIOLOGIST DICTATED NO/SHOW                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",XOPM24    ,MAMMO STEREO BX PERC.NEEDLE CO                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",MM35      ,MM CAD DIAGNOSTIC MAMMO                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",US042     ,US BREAST CYST ASPIRATION ADDL                    
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2295,Mg Breast Outside Image Ref Only                  
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2297,MG Us Breast Outside Image Ref Only               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2301,MRI Breast Outside Image Ref Only                 
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",729,MG US Breast Guided FNA                           
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1765,MG US Breast Drain Placement                      
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1743,MG Tomosynthesis Tomo Rt                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",1744,MG Tomosynthesis Tomo Lt                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2198,US Axilla Only Left                               
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2199,US Axilla Only Right                              
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",2216,US Axilla Only Bilateral                          
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SPRGB     ,Specimen Radiograph Bilateral                     
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SPRGR     ,Specimen Radiograph Right                         
+sprocs,"Procedure code for the exam. (may have side next to code, ie: '-L' or '-R' or '-B')",SPRGL     ,Specimen Radiograph Left                          
+study,Exam date.,,
+sdate,Unique study identifier. Does not always equal the exam date. ,,
+accession,Unique site record identifier for the exam,,
+massshape,Mass Shape,G,Generic
+massshape,Mass Shape,R,Round
+massshape,Mass Shape,O,Oval
+massshape,Mass Shape,X,Irregular
+massshape,Mass Shape,Q,Questioned architectural distortion
+massshape,Mass Shape,A,Architectural distortion
+massshape,Mass Shape,T,Asymmectric tubular structure/solitary dilated duct
+massshape,Mass Shape,N,Intramammary lymph node
+massshape,Mass Shape,B,Global asymmetry
+massshape,Mass Shape,F,Focal asymetry
+massshape,Mass Shape,S,Asymmetry
+massshape,Mass Shape,V,Developing asymmestry
+massshape,Mass Shape,Y,Lumph Node
+massmargin,Mass Margin,D,Circumscribed
+massmargin,Mass Margin,U,Obscured
+massmargin,Mass Margin,M,Microlobulated
+massmargin,Mass Margin,I,Indistinct
+massmargin,Mass Margin,S,Spiculated
+massdens,Mass Density,+,High density
+massdens,Mass Density,=,Isodense
+massdens,Mass Density,-,Low density
+massdens,Mass Density,0,Fat containing
+calcfind,Calcification Finding,A,Amorphous
+calcfind,Calcification Finding,9,Benign
+calcfind,Calcification Finding,H,Coarse heterogeneous
+calcfind,Calcification Finding,C,Course Popcorn-like
+calcfind,Calcification Finding,D,Dystrophic
+calcfind,Calcification Finding,E,Rim
+calcfind,Calcification Finding,F,Fine-linear (casting)
+calcfind,Calcification Finding,B,Fine linear-branching (casting)
+calcfind,Calcification Finding,G,Generic
+calcfind,Calcification Finding,I,Fine pleomorphic
+calcfind,Calcification Finding,L,Large Rodlike
+calcfind,Calcification Finding,M,Milk of calcium
+calcfind,Calcification Finding,J,Oil Cyst
+calcfind,Calcification Finding,K,Pleomorphic
+calcfind,Calcification Finding,P,Punctate
+calcfind,Calcification Finding,R,Round
+calcfind,Calcification Finding,S,Skin
+calcfind,Calcification Finding,O,Lucent-centered
+calcfind,Calcification Finding,U,Suture
+calcfind,Calcification Finding,V,Vascular
+calcfind,Calcification Finding,Q,Coarse
+calcdistri,Calcification Distribution,G,Grouped
+calcdistri,Calcification Distribution,S,Segmental
+calcdistri,Calcification Distribution,R,Regional
+calcdistri,Calcification Distribution,D,Diffuse/scattered
+calcdistri,Calcification Distribution,L,Linear
+calcdistri,Calcification Distribution,C,Clustered
+calcnumber,Number of Calcifications,,
+otherfind,Other related finding,!     ,area of post-mastectomy change and myocutaneous flap reconstruction                                                                                                                                     
+otherfind,Other related finding,%     ,calcified oil cyst                                                                                                                                                                                      
+otherfind,Other related finding,1,area of post-lumpectomy and radiation change                                                                                                                                                            
+otherfind,Other related finding,2,prominent lymph node
+otherfind,Other related finding,3,reduction mammoplasty change                                                                                                                                                                           
+otherfind,Other related finding,4,asymmetry
+otherfind,Other related finding,5,density in the MLO projection
+otherfind,Other related finding,A     ,axilliary adenopathy                                                                                                                                                                                    
+otherfind,Other related finding,B     ,site(s) of previous percutaneous needle biopsy with clip placement
+otherfind,Other related finding,C     ,area of post-reduction change                                                                                                                                                                           
+otherfind,Other related finding,D     ,area of architectural distortion                                                                                                                                                                        
+otherfind,Other related finding,E     ,duct ectasia                                                                                                                                                                                            
+otherfind,Other related finding,F     ,site(s) of prior stereotactic core biopsy with clip placement
+otherfind,Other related finding,G     ,area of subareolar density that is consistent with gynecomastia
+otherfind,Other related finding,H     ,a hematoma                                                                                                                                                                                              
+otherfind,Other related finding,I     ,focal asymmetry density in the CC projection                                                                                                                                                            
+otherfind,Other related finding,J     ,diffuse skin thickening                                                                                                                                                                                 
+otherfind,Other related finding,K     ,site(s) of prior ultrasound core biopsy with clip placement
+otherfind,Other related finding,L     ,skin lesion                                                                                                                                                                                             
+otherfind,Other related finding,M     ,clip(s) related to prior MRI biopsy                                                                                                                                                                     
+otherfind,Other related finding,N     ,nipple retraction                                                                                                                                                                                       
+otherfind,Other related finding,O     ,dilated duct                                                                                                                                                                                            
+otherfind,Other related finding,P     ,area of post-surgical change                                                                                                                                                                            
+otherfind,Other related finding,Q     ,focal asymmetry                                                                                                                                                                                         
+otherfind,Other related finding,R     ,area of skin retraction                                                                                                                                                                                 
+otherfind,Other related finding,S     ,area of skin thickening                                                                                                                                                                                 
+otherfind,Other related finding,T     ,area of trabecular thickening                                                                                                                                                                           
+otherfind,Other related finding,U     ,area of post-lumpectomy change                                                                                                                                                                          
+otherfind,Other related finding,V     ,normal lymph node(s)                                                                                                                                                                                    
+otherfind,Other related finding,W     ,biopsy clip                                                                                                                                                                                             
+otherfind,Other related finding,X     ,area of post-mastectomy change and implant placement                                                                                                                                                    
+otherfind,Other related finding,Y     ,asymmetric breast tissue
+otherfind,Other related finding,Z     ,abnormal lymph node(s)                                                                                                                                                                                  
+implanfind,Implant Findings,A,Asymmetric
+implanfind,Implant Findings,N,Normal Implants
+implanfind,Implant Findings,C,Calcified
+implanfind,Implant Findings,D,Distorted
+implanfind,Implant Findings,F,Fibrosed
+implanfind,Implant Findings,H,Herniated
+implanfind,Implant Findings,R,Ruptured
+implanfind,Implant Findings,S,Free silicone
+implanfind,Implant Findings,T,Capsular contraction
+implanfind,Implant Findings,K,Capsular Calcification
+consistent,Consistent with,A,Abscess
+consistent,Consistent with,ABT,Accessory breast tissue
+consistent,Consistent with,AE,Augmentation then explantation
+consistent,Consistent with,N,Benign asymmetry
+consistent,Consistent with,CF,Calcified fibroadenoma
+consistent,Consistent with,C,Cyst
+consistent,Consistent with,DFA,Degenerating fibroadenoma
+consistent,Consistent with,DF,Diabetic fibrous mastopathy
+consistent,Consistent with,DE,Ectatic duct
+consistent,Consistent with,G,Fat lobules
+consistent,Consistent with,T,Fat necrosis
+consistent,Consistent with,F,Fibroadenoma
+consistent,Consistent with,FV,Fibroadenoma or variant
+consistent,Consistent with,D,Fibrocystic change
+consistent,Consistent with,SA,Fibrocystic change or sclerosing adenosis
+consistent,Consistent with,J,Fibrosis
+consistent,Consistent with,FB,Foreign body
+consistent,Consistent with,FS,Free silicone
+consistent,Consistent with,H,Hamartoma
+consistent,Consistent with,E,Hematoma
+consistent,Consistent with,I,Hyalinized fibroadenoma
+consistent,Consistent with,LA,Lactating adenoma
+consistent,Consistent with,L,Lipoma
+consistent,Consistent with,Y,Lymph node
+consistent,Consistent with,MG,Male gynecomastia
+consistent,Consistent with,M,"Milk of Calcium, benign"
+consistent,Consistent with,O,Oil cyst
+consistent,Consistent with,PT,Phyllodes Tumor
+consistent,Consistent with,PM,Plasma cell mastitis
+consistent,Consistent with,>,Postsurgical Fluid Collection
+consistent,Consistent with,PR,Prior reduction mammoplasty
+consistent,Consistent with,SP,Sclerotic papilloma
+consistent,Consistent with,S,Seroma
+side,Side,L,Left
+side,Side,R,Right
+side,Side,B,Both
+size,Size in mm,,
+location,Location,1,1 o'clock
+location,Location,2,2 o'clock
+location,Location,3,3 o'clock
+location,Location,4,4 o'clock
+location,Location,5,5 o'clock
+location,Location,6,6 o'clock
+location,Location,7,7 o'clock
+location,Location,8,8 o'clock
+location,Location,9,9 o'clock
+location,Location,10,10 o'clock
+location,Location,11,11 o'clock
+location,Location,12,12 o'clock
+location,Location,W,Upper outer
+location,Location,X,Upper inner
+location,Location,Y,Lower outer
+location,Location,Z,Lower inner
+location,Location,C,Central
+location,Location,D,Medial
+location,Location,I,Inferior
+location,Location,L,Lateral
+location,Location,S,Sub-areolar
+location,Location,U,Superior
+location,Location,T,Axillary Tail
+location,Location,A,Axillary Tail
+location,Location,MD,Middle
+location,Location,AN,Anterior
+location,Location,UP,Upper
+location,Location,LO,Lower
+location,Location,IN,Inner
+location,Location,OU,Outer
+depth,Depth,A,Anterior
+depth,Depth,M,Middle
+depth,Depth,P,Posterior
+depth,Depth,1,1A
+depth,Depth,2,1B
+depth,Depth,3,1C
+depth,Depth,4,2A
+depth,Depth,5,2B
+depth,Depth,6,2C
+depth,Depth,7,3A
+depth,Depth,8,3B
+depth,Depth,9,3C
+distance,Distance in cm,,
+numfind,Finding Number,,
+asses,Assessment (Bi-Rads),N,Negative
+asses,Assessment (Bi-Rads),B,Benign
+asses,Assessment (Bi-Rads),P,Probably benign
+asses,Assessment (Bi-Rads),A,Additional evaluation
+asses,Assessment (Bi-Rads),S,Suspicious
+asses,Assessment (Bi-Rads),M,Highly suggestive of malignancy
+asses,Assessment (Bi-Rads),K,Known biopsy-proven malignancy
+asses,Assessment (Bi-Rads),X,**No Assessment**
+recc,Reccommendation,1,1 Year follow up
+recc,Reccommendation,&     ,NOT SPECIFIED
+recc,Reccommendation,>     ,Return to screening
+recc,Reccommendation,A     ,Cyst aspiration
+recc,Reccommendation,AS    ,Aspiration
+recc,Reccommendation,B     ,Biopsy
+recc,Reccommendation,BF    ,Bilateral Follow-up
+recc,Reccommendation,BM    ,Bilateral mammo
+recc,Reccommendation,BU    ,Bilateral ultrasound
+recc,Reccommendation,C     ,Clinical correlation of finding
+recc,Reccommendation,CM    ,Clinical management
+recc,Reccommendation,CMR   ,Clinical management w/ recall
+recc,Reccommendation,D     ,Any decision to biopsy should be based on clinical assessment
+recc,Reccommendation,E     ,Biopsy based on Clinical
+recc,Reccommendation,F     ,Short term follow-up bilateral 
+recc,Reccommendation,FL    ,Short term follow up left 
+recc,Reccommendation,FN    ,Fine needle aspiration
+recc,Reccommendation,FR    ,Short term follow up right 
+recc,Reccommendation,GB    ,Bilateral Diagnostic Mammogram
+recc,Reccommendation,GL    ,Left Diagnostic Mammogram
+recc,Reccommendation,GR    ,Right Diagnostic Mammogram 
+recc,Reccommendation,HRR   ,High Risk Screening MRI 
+recc,Reccommendation,ICU   ,Independent clinical FU   
+recc,Reccommendation,IFM   ,Independent clinical FU 
+recc,Reccommendation,L     ,Needle localization and excision
+recc,Reccommendation,M     ,Magnification mammography 
+recc,Reccommendation,MR    ,Breast MRI
+recc,Reccommendation,MR6   ,MRI six month follow up
+recc,Reccommendation,MRA   ,MRI abnormal 
+recc,Reccommendation,MRB   ,MR guided biopsy 
+recc,Reccommendation,MRC   ,MRI-Consider routine 
+recc,Reccommendation,MRI   ,MRI immediate follow up 
+recc,Reccommendation,MRN   ,MRI strongly recommend  
+recc,Reccommendation,N     ,Bilateral mammogram
+recc,Reccommendation,O     ,Old films for comparison
+recc,Reccommendation,OF    ,OSF/Additional Evaluation  
+recc,Reccommendation,P     ,Additional projections   
+recc,Reccommendation,PU    ,Possible ultrasound after mammo
+recc,Reccommendation,RL    ,Left mammogram 
+recc,Reccommendation,RR    ,Right mammogram
+recc,Reccommendation,S     ,Spot compression  
+recc,Reccommendation,SB    ,Stereotactic biopsy  
+recc,Reccommendation,SE    ,Surgical excision 
+recc,Reccommendation,T     ,Appropriate action 
+recc,Reccommendation,TM    ,Tomo Views Also
+recc,Reccommendation,TR    ,Technical Repeat
+recc,Reccommendation,U     ,An ultrasound exam 
+recc,Reccommendation,UB    ,Ultrasound biopsy
+recc,Reccommendation,UM    ,Unilateral mammo
+recc,Reccommendation,USC   ,Negative OSF
+recc,Reccommendation,UU    ,Unilateral ultrasound 
+recc,Reccommendation,Y     ,Cytologic analysis
+recc,Reccommendation,Z     ,Biopsy already performed                                                                                                                              
+stable,Whether finding is stable,,
+new,Whether finding is new,,
+changed,Any change noted in the finding,+     ,increase in size                                                                                                                                                                                        
+changed,Any change noted in the finding,-     ,decrease in size                                                                                                                                                                                        
+changed,Any change noted in the finding,C     ,Calcifications have become more coarse which is consistent with a benign process.                                                                                                                       
+changed,Any change noted in the finding,D     ,decrease in number of calcifications                                                                                                                                                                    
+changed,Any change noted in the finding,G     ,The finding does not persist upon additional diagnostic evaluation.                                                                                                                                     
+changed,Any change noted in the finding,I     ,increase in number of calcifications                                                                                                                                                                    
+changed,Any change noted in the finding,M     ,The finding is more prominent.                                                                                                                                                                          
+changed,Any change noted in the finding,N     ,no significant changes                                                                                                                                                                                  
+changed,Any change noted in the finding,O     ,more defined                                                                                                                                                                                            
+changed,Any change noted in the finding,P     ,partially removed                                                                                                                                                                                       
+changed,Any change noted in the finding,R     ,completely removed with no sign of recurrence                                                                                                                                                           
+changed,Any change noted in the finding,S     ,not seen                                                                                                                                                                                                
+changed,Any change noted in the finding,U     ,The finding is less prominent.                                                                                                                                                                          
+changed,Any change noted in the finding,X     ,less defined                                                                                                                                                                                            
+loc_num,Location of exam,1,Site 1
+loc_num,Location of exam,2,Site 2
+loc_num,Location of exam,3,Site 3
+loc_num,Location of exam,5,Site 5
+loc_num,Location of exam,6,Site 6
+loc_num,Location of exam,7,Site 7
+loc_num,Location of exam,8,Site 8
+loc_num,Location of exam,9,Site 9
+tech_init,Technologist Identifier,,
+init,Radiologist Identifier,,
+proccode,Procedure code for the exam. (Same as sprocs),,
+desc,Description of the procedure,,
+vtype,Visit Type,1,Procedure
+vtype,Visit Type,2,Loc
+vtype,Visit Type,3,Response to treatment
+vtype,Visit Type,6,Short term follow up of prior MR finding
+vtype,Visit Type,A,Additional evaluation requested from recent study
+vtype,Visit Type,B,Post biopsy
+vtype,Visit Type,C,Technical Callback
+vtype,Visit Type,D,Outside films not available
+vtype,Visit Type,E,Eval finding on OSF
+vtype,Visit Type,F,Follow-up at short-interval from prior study
+vtype,Visit Type,G,Extent of disease
+vtype,Visit Type,H,High-risk screening
+vtype,Visit Type,I,Eval of finding on MRI
+vtype,Visit Type,K,Abnormal finding on prior study
+vtype,Visit Type,L,Post lumpectomy
+vtype,Visit Type,M,Post mastectomy follow-up
+vtype,Visit Type,N,Specimen
+vtype,Visit Type,O,Review of an outside study
+vtype,Visit Type,P,Problem indicated
+vtype,Visit Type,Q,Reflector Placement
+vtype,Visit Type,R,Pre-reduction mammoplasty
+vtype,Visit Type,S,Screening
+vtype,Visit Type,T,Pre-radiation therapy
+vtype,Visit Type,U,Implant Evaluation
+vtype,Visit Type,V,Additional evaluation requested at current screening
+vtype,Visit Type,X,Abnormal finding seen on other modality
+vtype,Visit Type,Z,Post chemo
+tissueden,Tissue Density,1,The breasts are almost entirely fat                                                                                                                   
+tissueden,Tissue Density,2,Scattered fibroglandular densities                                                                                                                    
+tissueden,Tissue Density,3,Heterogeneously dense                                                                                                                                 
+tissueden,Tissue Density,4,Extremely dense                                                                                                                                       
+tissueden,Tissue Density,5,Normal male                                                                                                                                           
+case,Special Case Type,I,Interesting Case
+case,Special Case Type,T,Teaching File
+case,Special Case Type,O,Tomo Study
+case,Special Case Type,N,Breast CT non-contrast Study
+case,Special Case Type,C,Breast CT contrast Study
+case,Special Case Type,Q,QA Alert
+type,Biopsy Type,B,Needle biopsy pathology
+type,Biopsy Type,S,Surgical pathology
+technique,Biopsy Technique,CA,Cyst aspiration
+technique,Biopsy Technique,CB,Core biopsy
+technique,Biopsy Technique,EB,Excisional biopsy
+technique,Biopsy Technique,FNA,FNA
+technique,Biopsy Technique,MA,Mammographic non-stereotactic cyst aspiration
+technique,Biopsy Technique,MR,MRI guided biopsy
+technique,Biopsy Technique,MRX,MRI guided core biopsy
+technique,Biopsy Technique,SA,Stereotactic guided cyst aspiration
+technique,Biopsy Technique,SB,Stereotactic core biopsy
+technique,Biopsy Technique,TB,Tomo guided biopsy
+technique,Biopsy Technique,UA,Ultrasound guided cyst aspiration
+technique,Biopsy Technique,UB,Ultrasound guided core biopsy
+biopsite,Biopsy Site,A,Site A
+biopsite,Biopsy Site,B,Site B
+biopsite,Biopsy Site,C,Site C
+biopsite,Biopsy Site,D,Site D
+biopsite,Biopsy Site,E,Site E
+biopsite,Biopsy Site,F,Site F
+biop_loc,Biopsy Location,1,
+biop_loc,Biopsy Location,5,
+biop_loc,Biopsy Location,2,
+biop_loc,Biopsy Location,6,
+biop_loc,Biopsy Location,11,
+binit,Biopsy Physician identifier,,
+bcomp,Biopsy complications,H,Hematoma requiring surgery
+bcomp,Biopsy complications,I,Infection requiring antibiotics
+bcomp,Biopsy complications,L,Lymphoedema
+bcomp,Biopsy complications,N,Numbness
+bcomp,Biopsy complications,P,Pain
+bcomp,Biopsy complications,X,Pneumothorax
+procdate,Procedure Date,,
+pdate,Pathology report date,,
+path_loc,Location ID for pathology lab.,1,Site 1
+path_loc,Location ID for pathology lab.,5,Site 5
+path_loc,Location ID for pathology lab.,2,Site 2
+path_loc,Location ID for pathology lab.,6,Site 6
+path_loc,Location ID for pathology lab.,11,Site 11
+path_dr,Pathologist identifier,,
+rnumber,Pathology report number,,
+diag_out,Sent to external facility,Y,External
+diag_out,Sent to external facility,N,Internal
+comment,General comment,,
+surgery,Surgery Type,A,Axillary dissection
+surgery,Surgery Type,BM,Subcutaneous Mastectomy
+surgery,Surgery Type,E,Excisional Breast Biopsy
+surgery,Surgery Type,I,Incisional Breast Biopsy
+surgery,Surgery Type,IR,Implant Replacement
+surgery,Surgery Type,L,Lumpectomy
+surgery,Surgery Type,M,Mastectomy-all types
+surgery,Surgery Type,MRM,Modified Radical Mastectomy
+surgery,Surgery Type,O,Other
+surgery,Surgery Type,Q,Quadrantectomy
+surgery,Surgery Type,RE,Re-excision
+surgery,Surgery Type,RM,Radical Mastectomy
+surgery,Surgery Type,SE,Surgical Excision
+surgery,Surgery Type,SM,Simple Mastectomy
+lymphsurg,"	Lymph node surgery type.",AN,Axillary Lymph Node Dissection
+lymphsurg,"	Lymph node surgery type.",HAN,High Axillary Lymph Node Dissection
+lymphsurg,"	Lymph node surgery type.",IMN,Internal Mammary Lymph Node Dissection
+lymphsurg,"	Lymph node surgery type.",LAN,Low Axillary Lymph Node Dissection
+lymphsurg,"	Lymph node surgery type.",NS,Lymph Nodes Not Sampled
+lymphsurg,"	Lymph node surgery type.",O,Other
+lymphsurg,"	Lymph node surgery type.",S,Sentinel node biopsy
+surg_loc,Surgery location ID,1,
+surg_loc,Surgery location ID,2,
+surg_loc,Surgery location ID,5,
+surg_loc,Surgery location ID,6,
+surg_loc,Surgery location ID,11,
+surgeon,Surgeon Identifier,,
+pocomp,Post Op Complications,H,Hematoma
+pocomp,Post Op Complications,I,Infection
+pocomp,Post Op Complications,O,Other
+ltcomp,Long term complications,L,Lymphoedema
+ltcomp,Long term complications,P,Pain
+ltcomp,Long term complications,N,Numbness
+ltcomp,Long term complications,O,Other
+bside,Biopsy Side,L,Left
+bside,Biopsy Side,R,Right
+bside,Biopsy Side,B,Both
+path (1-10),Pathology Finding,AB,Abscess
+path (1-10),Pathology Finding,AD,Adenosis
+path (1-10),Pathology Finding,ADC,Adenoid cystic carcinoma
+path (1-10),Pathology Finding,ADE,Adenocarcinoma
+path (1-10),Pathology Finding,ADH,Atypical ductal hyperplasia
+path (1-10),Pathology Finding,ADM,Adenoma
+path (1-10),Pathology Finding,AL,Adenolipoma
+path (1-10),Pathology Finding,ALH,Atypical lobular hyperplasia
+path (1-10),Pathology Finding,AM,Apocrine metaplasia
+path (1-10),Pathology Finding,AME,Adenomyoepithelloma
+path (1-10),Pathology Finding,AMY,Amyloid (tumor)
+path (1-10),Pathology Finding,AN,Normal axillary node
+path (1-10),Pathology Finding,ANA,Angiolipoma
+path (1-10),Pathology Finding,ANC,Axillary node with calcifications
+path (1-10),Pathology Finding,ANG,Angiomatosis
+path (1-10),Pathology Finding,ANH,Axillary node hyperplasia
+path (1-10),Pathology Finding,ANL,Axillary node with lymphoma
+path (1-10),Pathology Finding,ANM,Axillary nodal metastases
+path (1-10),Pathology Finding,AP,Apocrine carcinoma
+path (1-10),Pathology Finding,APA,Atypical papilloma
+path (1-10),Pathology Finding,APC,Apocrine cyst
+path (1-10),Pathology Finding,APH,Atypical Lymphoid Hyperplasia
+path (1-10),Pathology Finding,AS,Angiosarcoma
+path (1-10),Pathology Finding,ASI,Asynchronous involution
+path (1-10),Pathology Finding,B,Breast Cancer
+path (1-10),Pathology Finding,BBP,Benign breast tissue
+path (1-10),Pathology Finding,BC,Benign cyst
+path (1-10),Pathology Finding,BCB,Benign cyst with blood
+path (1-10),Pathology Finding,BCL,Benign calcifications
+path (1-10),Pathology Finding,BCN,Basal cell carcinoma of the nipple
+path (1-10),Pathology Finding,BEN,Benign
+path (1-10),Pathology Finding,BP,Breast parenchyma
+path (1-10),Pathology Finding,BVI,Blood vessel (vascular) Invasion
+path (1-10),Pathology Finding,BXC,Biopsy site changes
+path (1-10),Pathology Finding,CC,Colloid (mucinous) carcinoma
+path (1-10),Pathology Finding,CCC,Columnar cell change
+path (1-10),Pathology Finding,CCH,Carcinoma in children
+path (1-10),Pathology Finding,CDS,Chondrosarcoma
+path (1-10),Pathology Finding,CEB,Carcinoma in ectopic breast
+path (1-10),Pathology Finding,CED,Carcinoma with endocrine differentiation
+path (1-10),Pathology Finding,CH,Chondroma
+path (1-10),Pathology Finding,CI,Comedocarcinoma (intraductal)
+path (1-10),Pathology Finding,CL,Calcified lymph node
+path (1-10),Pathology Finding,CM,Carcinoma in males
+path (1-10),Pathology Finding,CMT,Carcinoma with metaplasia
+path (1-10),Pathology Finding,COT,Cartilaginous and osseous change
+path (1-10),Pathology Finding,CP,Intracystic papilloma
+path (1-10),Pathology Finding,CPL,Carcinoma in pregnancy and lactation
+path (1-10),Pathology Finding,CS,Carcinosarcoma
+path (1-10),Pathology Finding,CSL,Complex sclerosing lesion
+path (1-10),Pathology Finding,DA,Ductal adenoma
+path (1-10),Pathology Finding,DC,DCIS
+path (1-10),Pathology Finding,DCC,DCIS with comedonecrosis
+path (1-10),Pathology Finding,DCH,"DCIS, high grade"
+path (1-10),Pathology Finding,DCL,"DCIS, low grade"
+path (1-10),Pathology Finding,DE,Ductal ectasia
+path (1-10),Pathology Finding,DF,Diabetic fibrous mastopathy
+path (1-10),Pathology Finding,DHU,"Ductal hyperplasia, Usual"
+path (1-10),Pathology Finding,DMP,DCIS micro-papillary
+path (1-10),Pathology Finding,DS,Ductal carcinoma in-situ (DCIS)
+path (1-10),Pathology Finding,EAD,Extra abdominal desmoid
+path (1-10),Pathology Finding,EBT,Ectopic (accessory) breast tissue
+path (1-10),Pathology Finding,EC,Epidermal inclusion cyst
+path (1-10),Pathology Finding,ED,Edema
+path (1-10),Pathology Finding,FA,Fibroadenoma
+path (1-10),Pathology Finding,FAC,Fibroademotoid change
+path (1-10),Pathology Finding,FAH,Fibroadenomatoid hyperplasia
+path (1-10),Pathology Finding,FAL,Fibroadenolipoma/hamartoma
+path (1-10),Pathology Finding,FB,Foreign body (reaction)
+path (1-10),Pathology Finding,FBS,Fibrosis
+path (1-10),Pathology Finding,FC,Fibrocystic
+path (1-10),Pathology Finding,FEA,Flat epithelial atypia
+path (1-10),Pathology Finding,FEL,Fibroepithelial lesion
+path (1-10),Pathology Finding,FF,Focal fibrosis
+path (1-10),Pathology Finding,FM,Fibromatosis
+path (1-10),Pathology Finding,FN,Fat necrosis
+path (1-10),Pathology Finding,FS,Fibrosarcoma
+path (1-10),Pathology Finding,GA,Galactocele
+path (1-10),Pathology Finding,GC,Granular cell tumor
+path (1-10),Pathology Finding,GCR,Giant cell reaction
+path (1-10),Pathology Finding,GF,Giant fibroadenoma
+path (1-10),Pathology Finding,GM,Granulomatous Mastitis
+path (1-10),Pathology Finding,GRC,Glycogen-rich carcinoma
+path (1-10),Pathology Finding,GYN,Gynecomastia
+path (1-10),Pathology Finding,HA,Hamartoma
+path (1-10),Pathology Finding,HAP,Hemanglopericytoma
+path (1-10),Pathology Finding,HE,Hematoma
+path (1-10),Pathology Finding,HEM,Hemorrhage
+path (1-10),Pathology Finding,HES,"Hemangioma - nonparenchymal, subcutaneous"
+path (1-10),Pathology Finding,HEV,Hemangioma - venous
+path (1-10),Pathology Finding,HL,Hodgkin's Lymphoma
+path (1-10),Pathology Finding,HM,Hemangioma
+path (1-10),Pathology Finding,HY,"Hyperplasia, usual"
+path (1-10),Pathology Finding,I,Invasive mammary carcinoma
+path (1-10),Pathology Finding,IC,Intracystic carcinoma
+path (1-10),Pathology Finding,ICC,Invasive cribriform carcinoma
+path (1-10),Pathology Finding,ICP,Intracystic papillary carcinoma
+path (1-10),Pathology Finding,ID,Invasive ductal carcinoma
+path (1-10),Pathology Finding,IDC,Invasive ductal adenocarcinoma
+path (1-10),Pathology Finding,IF,Inflammation
+path (1-10),Pathology Finding,II,Invasive and in-situ carcinoma
+path (1-10),Pathology Finding,IL,Invasive lobular carcinoma
+path (1-10),Pathology Finding,IMC,Invasive Mucinous Carcinoma
+path (1-10),Pathology Finding,IMN,Intramammary lymph node
+path (1-10),Pathology Finding,IN,Infarct
+path (1-10),Pathology Finding,INC,Inflammatory carcinoma
+path (1-10),Pathology Finding,IPC,Invasive papillary carcinoma
+path (1-10),Pathology Finding,JF,Juvenile fibroadenoma
+path (1-10),Pathology Finding,JP,Juvenile papillomatosis
+path (1-10),Pathology Finding,LA,Lactating adenoma
+path (1-10),Pathology Finding,LB,Lipoma of the breast
+path (1-10),Pathology Finding,LC,Lactational change
+path (1-10),Pathology Finding,LH,Lobular hyperplasia
+path (1-10),Pathology Finding,LI,Leukemic infiltration
+path (1-10),Pathology Finding,LM,Leiomyoma
+path (1-10),Pathology Finding,LMS,Leiomyosarcoma
+path (1-10),Pathology Finding,LN,Lymph node
+path (1-10),Pathology Finding,LP,Large duct papilloma
+path (1-10),Pathology Finding,LPS,Liposarcoma
+path (1-10),Pathology Finding,LRC,lipid-rich (lipid-secreting) carcinoma
+path (1-10),Pathology Finding,LS,Lobular carcinoma in-situ (LCIS)
+path (1-10),Pathology Finding,LVI,Lymphatic vessel invasion
+path (1-10),Pathology Finding,LY,Lymphoma
+path (1-10),Pathology Finding,MAS,Mastitis
+path (1-10),Pathology Finding,MB,Metastatic cancer to the breast
+path (1-10),Pathology Finding,MBC,Metastatic cancer to the breast from the colon
+path (1-10),Pathology Finding,MBL,Metastatic cancer to the breast from the lung
+path (1-10),Pathology Finding,MBM,Metastatic melanoma to the breast
+path (1-10),Pathology Finding,MBO,Metastatic cancer to the breast from the ovary
+path (1-10),Pathology Finding,MBS,Metastatic sarcoma to the breast
+path (1-10),Pathology Finding,MC,Medullary carcinoma
+path (1-10),Pathology Finding,MD,Mondor's disease (thrombophlebitis)
+path (1-10),Pathology Finding,MDC,Multifocal intraductal carcinoma
+path (1-10),Pathology Finding,MDN,Metastatic disease to axillary node
+path (1-10),Pathology Finding,MFB,Myofibroblastoma
+path (1-10),Pathology Finding,MFH,Malignant fibrous histiocytoma
+path (1-10),Pathology Finding,MGA,Microglandular adenosls
+path (1-10),Pathology Finding,MH,Malingnant fibrous hystiocytoma
+path (1-10),Pathology Finding,MIC,Multifocal invaslve ductal carcinoma
+path (1-10),Pathology Finding,MIM,Metastasis to an intramammary lymph node
+path (1-10),Pathology Finding,MIP,Multiple intraductal papillomas
+path (1-10),Pathology Finding,MMN,Malignant melanoma of the nipple
+path (1-10),Pathology Finding,MP,Microscopic Papilloma
+path (1-10),Pathology Finding,NA,No abnormality
+path (1-10),Pathology Finding,NBT,Normal breast tissue
+path (1-10),Pathology Finding,ND,Non-diagnostic
+path (1-10),Pathology Finding,NFA,Neurofibroma
+path (1-10),Pathology Finding,NFS,Neurofibromatosis
+path (1-10),Pathology Finding,NHL,Non-Hodgkin lymphoma
+path (1-10),Pathology Finding,NMS,Neoplasm of the mammary skin
+path (1-10),Pathology Finding,NOS,Not otherwise specified
+path (1-10),Pathology Finding,NPA,Nipple adenoma
+path (1-10),Pathology Finding,OC,Oil cyst (fat necrosis cyst)
+path (1-10),Pathology Finding,OS,Osteogenic sarcoma
+path (1-10),Pathology Finding,PA,Papilloma
+path (1-10),Pathology Finding,PC,Papillary carcinoma in-situ
+path (1-10),Pathology Finding,PD,Paget's disease (of the nipple)
+path (1-10),Pathology Finding,PDP,Peripheral duct papillomas
+path (1-10),Pathology Finding,PL,Pleomorphic adenoma
+path (1-10),Pathology Finding,PLS,Plasmacytoma
+path (1-10),Pathology Finding,PRM,Post reduction mammoplasty
+path (1-10),Pathology Finding,PSH,Pseudoangiomatous stromal hyperplasia
+path (1-10),Pathology Finding,PT,Phylloides tumor
+path (1-10),Pathology Finding,PTM,Phylloides tumor - malignant
+path (1-10),Pathology Finding,RM,Recurrent malignancy
+path (1-10),Pathology Finding,RS,Radial scar
+path (1-10),Pathology Finding,SA,Sclerosing adenosis
+path (1-10),Pathology Finding,SBT,Sclerotic breast tissue
+path (1-10),Pathology Finding,SC,Signet cell carcinoma
+path (1-10),Pathology Finding,SCL,Sclerosis
+path (1-10),Pathology Finding,SCN,Squamous cell carcinoma of the nipple
+path (1-10),Pathology Finding,SCT,Spindle cell tumor
+path (1-10),Pathology Finding,SE,Seroma
+path (1-10),Pathology Finding,SF,Stromal fibrosis
+path (1-10),Pathology Finding,SG,Silicone granuloma
+path (1-10),Pathology Finding,SJC,Secretory (juvenile) carcinoma
+path (1-10),Pathology Finding,SQ,Squamous carcinoma
+path (1-10),Pathology Finding,ST,Scar tissue
+path (1-10),Pathology Finding,TA,Tubular adenoma
+path (1-10),Pathology Finding,TC,Tubular carcinoma
+path (1-10),Pathology Finding,TR,Treatment effect
+path (1-10),Pathology Finding,VGH,Virginal hyperplasia
+concord,Concordance,C,Concordant
+concord,Concordance,N,Not concordant
+hgrade,Histological Grade,G1    ,low combined histological grade (favorable)                                                                                                                                                             
+hgrade,Histological Grade,G2    ,intermediate combined histological grade (moderately favorable)                                                                                                                                         
+hgrade,Histological Grade,G3    ,high combined histological grade (unfavorable)                                                                                                                                                          
+hgrade,Histological Grade,GX    ,grade cannot be assessed                                                                                                                                                                                
+tnmpt,TNM primary tumor,PT0   ,no evidence of primary tumor
+tnmpt,TNM primary tumor,PT1A  ,tumor >1 mm but <= 5 mm
+tnmpt,TNM primary tumor,PT1B  ,tumor >5 mm but <= 10 mm
+tnmpt,TNM primary tumor,PT1C  ,tumor >10 mm but <= 20 mm
+tnmpt,TNM primary tumor,PT1MI ,tumor <=1 mm 
+tnmpt,TNM primary tumor,PT2   ,Tumor >20 mm but <= 50 mm
+tnmpt,TNM primary tumor,PT3   ,tumor >50 mm
+tnmpt,TNM primary tumor,PT4A  ,extension to chest wall
+tnmpt,TNM primary tumor,PT4B  ,Ulceration and/or ipsilateral satellite nodules and/or edema of the skin
+tnmpt,TNM primary tumor,PT4C  ,both T4a and T4b
+tnmpt,TNM primary tumor,PT4D  ,Inflammatory carcinoma
+tnmpt,TNM primary tumor,PTISD ,ductal carcinoma in situ
+tnmpt,TNM primary tumor,PTISL ,lobular carcinoma in situ
+tnmpt,TNM primary tumor,PTISP ,paget disease of the nipple not associated with invasive carcinoma
+tnmpt,TNM primary tumor,PXT   ,primary tumor cannot be assessed
+tnmpn,TNM regional lymph nodes(pN),PT0   ,no evidence of primary tumor
+tnmpn,TNM regional lymph nodes(pN),PT1A  ,tumor >1 mm but <= 5 mm
+tnmpn,TNM regional lymph nodes(pN),PT1B  ,tumor >5 mm but <= 10 mm
+tnmpn,TNM regional lymph nodes(pN),PT1C  ,tumor >10 mm but <= 20 mm
+tnmpn,TNM regional lymph nodes(pN),PT1MI ,tumor <=1 mm 
+tnmpn,TNM regional lymph nodes(pN),PT2   ,Tumor >20 mm but <= 50 mm
+tnmpn,TNM regional lymph nodes(pN),PT3   ,tumor >50 mm
+tnmpn,TNM regional lymph nodes(pN),PT4A  ,extension to chest wall
+tnmpn,TNM regional lymph nodes(pN),PT4B  ,Ulceration and/or ipsilateral satellite nodules and/or edema of the skin
+tnmpn,TNM regional lymph nodes(pN),PT4C  ,both T4a and T4b
+tnmpn,TNM regional lymph nodes(pN),PT4D  ,Inflammatory carcinoma
+tnmpn,TNM regional lymph nodes(pN),PTISD ,ductal carcinoma in situ
+tnmpn,TNM regional lymph nodes(pN),PTISL ,lobular carcinoma in situ
+tnmpn,TNM regional lymph nodes(pN),PTISP ,paget disease of the nipple not associated with invasive carcinoma
+tnmpn,TNM regional lymph nodes(pN),PXT   ,primary tumor cannot be assessed
+tnmm,TNM distant metastasis,CMO   ,no clinical or radiographic evidence of distant metastasis
+tnmm,TNM distant metastasis,NA    ,not applicable
+tnmm,TNM distant metastasis,PM1   ,distant detectable metastasis as determined by classic clinical and radiographic means
+tnmdesc,TNM descriptors,m,Multiple foci
+tnmdesc,TNM descriptors,r,Recurrent
+tnmdesc,TNM descriptors,y,Posttreatment
+tnmdesc,TNM descriptors,sn,Only sentiel node evaluated
+tnmr,TNM residual,rx,Presence of residual tumor cannot be assessed
+tnmr,TNM residual,r0,No residual tumor
+tnmr,TNM residual,r1,Microscopic residual tumor
+tnmr,TNM residual,r2,Macroscopic residual tumor
+stage,TNM Staging (Comment box),,
+loc,Location,1,1 o'clock
+loc,Location,2,2 o'clock
+loc,Location,3,3 o'clock
+loc,Location,4,4 o'clock
+loc,Location,5,5 o'clock
+loc,Location,6,6 o'clock
+loc,Location,7,7 o'clock
+loc,Location,8,8 o'clock
+loc,Location,9,9 o'clock
+loc,Location,10,10 o'clock
+loc,Location,11,11 o'clock
+loc,Location,12,12 o'clock
+loc,Location,W,Upper outer
+loc,Location,X,Upper inner
+loc,Location,Y,Lower outer
+loc,Location,Z,Lower inner
+loc,Location,C,Central
+loc,Location,D,Medial
+loc,Location,I,Inferior
+loc,Location,L,Lateral
+loc,Location,S,Sub-areolar
+loc,Location,U,Superior
+loc,Location,T,Axillary Tail
+loc,Location,A,Axillary Tail
+loc,Location,MD,Middle
+loc,Location,AN,Anterior
+loc,Location,UP,Upper
+loc,Location,LO,Lower
+loc,Location,IN,Inner
+loc,Location,OU,Outer
+bdepth,Depth,A,Anterior
+bdepth,Depth,M,Middle
+bdepth,Depth,P,Posterior
+bdepth,Depth,1,1A
+bdepth,Depth,2,1B
+bdepth,Depth,3,1C
+bdepth,Depth,4,2A
+bdepth,Depth,5,2B
+bdepth,Depth,6,2C
+bdepth,Depth,7,3A
+bdepth,Depth,8,3B
+bdepth,Depth,9,3C
+bdistance,Distance in cm,,
+focality,Focality,S,single focus
+focality,Focality,M,multiple foci
+focality,Focality,N,no residual invasive carcinoma
+focality,Focality,I,indeterminate
+nfocal,Number of focality,,
+specsize,Specimen size,,
+dcissize,DCIS size,,
+invsize,invasive size,,
+superior,Superior margin (in mm),,
+inferior,Inferior margin (in mm),,
+anterior,Anterior margin (in mm),,
+posterior,Posterior margin (in mm),,
+medial,Medial margin (in mm),,
+lateral,Lateral margin (in mm),,
+specinteg,Specimen integrity,Y,Single intact
+specinteg,Specimen integrity,M,Multiple designated
+specinteg,Specimen integrity,F,Fragmented
+specinteg,Specimen integrity,O,Other
+specnum,Specimen number,,
+specembed,Specimen embedded (Y/N),,
+est,Estrogen,+,Positive - immunoreactive tumor cells present
+est,Estrogen,L,Less than 1% immunoreactive cells present
+est,Estrogen,-,Negative - no immunoreactive tumor cells present
+est,Estrogen,U,result unkown
+est,Estrogen,N,Not performed
+est,Estrogen,A,Performed on another specimen
+est,Estrogen,P,Pending
+est,Estrogen,R,no residual invasive carcinoma after presurgucal therapy
+estp,Estrogen percentage,,
+her2,HER2 Status,0,Negative (Score 0)
+her2,HER2 Status,1,Negative (Score 1+)
+her2,HER2 Status,2,Equivocal (Score 2+)
+her2,HER2 Status,3,Positive (score 3+)
+her2,HER2 Status,A     ,performed on another specimen
+her2,HER2 Status,N     ,not performed
+her2,HER2 Status,P     ,pending
+her2,HER2 Status,R     ,no residual invasive carcinoma after presurgucal therapy
+fish,FISH/CISH,+     ,positive
+fish,FISH/CISH,-     ,negative
+fish,FISH/CISH,0,not amplified (HER2 gene copy <4.0 or ratio <1.8)
+fish,FISH/CISH,A     ,performed on another specimen
+fish,FISH/CISH,E     ,Equivocal (HER2 gene copy 4.0 to 6.0 or ratio 1.8 to 2.2)
+fish,FISH/CISH,M     ,Amplified (HER2 gene copy >6.0 or ratio >2.2)
+fish,FISH/CISH,N     ,not performed
+fish,FISH/CISH,P     ,pending
+fish,FISH/CISH,R     ,no residual invasive carcinoma after presurgical therapy
+fish,FISH/CISH,U     ,result unknown
+ki67,Ki-67,+     ,positive
+ki67,Ki-67,-     ,negative
+ki67,Ki-67,B     ,>2% to 20%
+ki67,Ki-67,G     ,>=20%
+ki67,Ki-67,L     ,<=2%
+ki67,Ki-67,N     ,Not performed
+extracap,Extracapsular Extension,Y,Present
+extracap,Extracapsular Extension,N,not identified
+extracap,Extracapsular Extension,K,no skin present
+extracap,Extracapsular Extension,I,Indeterminate
+methodevl,Method of Evaluation,L,"hematoxylin and eosin, one level"
+methodevl,Method of Evaluation,M,"hematoxylin and eosin, multiple levels"
+methodevl,Method of Evaluation,I,immunohistochemistry
+methodevl,Method of Evaluation,N,sentinel lymph node biopsy not performed
+methodevl,Method of Evaluation,O,Other
+snode_rem,# of nodes removed: Sentinel,,
+node_rem,# of nodes removed: Total,,
+node_pos,# of nodes removed: Total Positive,,
+macrometa,# of Macrometastases,,
+micrometa,# of Micrometastases,,
+isocell,# of Isolated Cells,,
+largedp,Largest Deposit (in mm),,
+eic,EIC,N,Negative
+eic,EIC,P,Positive
+eic,EIC,O,only DCIS present after presurgical
