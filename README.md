@@ -60,6 +60,8 @@ The file **EMBED\_OpenData\_clinical.csv** contains all clinical data and demogr
 
 **Key fields:**
 
+A full legend can be found in **AWS_Open_Data_Clinical_Legend.csv**
+
 |**Feature name** |**Description** |
 | - | - |
 |empi\_anon|Unique anonymized patient ID, all exams for a patient will have the same ID|
