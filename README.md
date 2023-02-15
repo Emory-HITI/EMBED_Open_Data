@@ -79,8 +79,9 @@ A full legend can be found in **AWS_Open_Data_Clinical_Legend.csv**
 |massdens|Mass density according to BIRADS descriptors (see ./tables/clinical\_legend.csv)|
 |calcfind|Type of calcification according to BIRADS descriptors (see ./tables/clinical\_legend.csv)|
 |calcdistri|Distribution of calcifications according to BIRADS descriptors (see ./tables/clinical\_ legend.csv) |
-|bside|<p>Laterality of any pathology result</p><p>**L**: left </p><p>**R**:** right</p>|
-|Technique|Source of the of tissue specimen obtained - biopsy, FNA, lumpectomy, etc. (see ./tables/clinical\_legend.csv). This is helpful in cases where this is a biopsy followed by a lumpectomy. The pathology entries will contain information from both events, however the lumpectomy pathology results would typically supersede biopsy results|
+|bside|<p>Laterality of any pathology result</p><p>**L**: left </p><p>**R**: right</p>|
+|procdate_anon|Date of pathology result. |
+|type|Source of the of tissue specimen obtained - biopsy, FNA, lumpectomy, etc. (see ./tables/clinical\_legend.csv). This is helpful in cases where this is a biopsy followed by a lumpectomy. The pathology entries will contain information from both events, however the lumpectomy pathology results would typically supersede biopsy results|
 |path1- path10|Individual pathologic diagnoses from a given specimen. For example, a given specimen may contain invasive ductal carcinoma (ID), ductal carcinoma in situ (DC), and radial scar (RS). This row would contain these entries in path 1 – path 3 (see ./tables/clinical\_legend.csv)|
 |path\_severity|<p>The most severe pathology result from a given specimen, abstracted from path1 – path10 (see see ./tables/pathology\_legend.csv for classification schema)</p><p>**0**: invasive cancer</p><p>**1**: non-invasive cancer</p><p>**2**: high-risk lesion</p><p>**3**: borderline lesion</p><p>**4**: benign findings</p><p>**5**: negative (normal breast tissue)</p><p>**6**: non-breast cancer</p>|
 |RACE\_DESC|Patient Race|
