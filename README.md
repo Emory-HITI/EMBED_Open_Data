@@ -1,5 +1,9 @@
 # EMBED_Open_Data
+
+**Access Request Form:** https://forms.gle/6YVFKTz7ucEJKEWw8
+
 Data descriptor and sample notebooks for the Emory Breast Imaging Dataset (EMBED) hosted on the AWS Open Data Program
+
 **EMBED Overview:**  
 
 **I. Summary**
