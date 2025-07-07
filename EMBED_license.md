@@ -2,7 +2,7 @@
  
 **By registering for downloads from the EMory BrEast Imaging Dataset (EMBED), you are agreeing to this Research Use Agreement.**
 
-1. Permission is granted to view and use EMBED without charge for personal, non-commercial research purposes only. Any commercial use, sale, or other monetization is prohibited.
+1. Permission is granted to view and use EMBED without charge for academic, non-commercial research purposes only. Any commercial use, sale, or other monetization is prohibited.
 2. Other than the rights granted herein, the Emory University School of Medicine (“School of Medicine”) retains all rights, title, and interest in EMBED.
 3. You may make a verbatim copy of the EMBED for personal, non-commercial research use as permitted in this Research Use Agreement. If another user within your organization wishes to use the EMBED, they must register as an individual user and comply with all the terms of this Research Use Agreement.
 4. YOU MAY NOT DISTRIBUTE, PUBLISH, OR REPRODUCE A COPY of any portion or all of EMBED to others without specific prior written permission from the School of Medicine.
