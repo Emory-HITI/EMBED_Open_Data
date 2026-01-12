@@ -3,6 +3,7 @@
 ## **Access Request Form:** https://forms.gle/6YVFKTz7ucEJKEWw8
 ## **Documentation:** https://docs.hitilab.com/
 ## **Frequently Asked Questions:** https://docs.hitilab.com/en/datasets/embed/open-data-faq
+## **Data Use Agreement:** https://github.com/Emory-HITI/EMBED_Open_Data/EMBED_license.md
 
 Data descriptor and sample notebooks for the Emory Breast Imaging Dataset (EMBED) hosted on the AWS Open Data Program
 
