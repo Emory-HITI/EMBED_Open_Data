@@ -1,13 +1,13 @@
 # EMBED Open Data
 
-## **Access Request Form:** https://forms.gle/6YVFKTz7ucEJKEWw8
+## **Request Access:** https://data.hitilab.com/
 ## **Documentation:** https://docs.hitilab.com/
 ## **Frequently Asked Questions:** https://docs.hitilab.com/en/datasets/embed/open-data-faq
 ## **Data Use Agreement:** https://github.com/Emory-HITI/EMBED_Open_Data/EMBED_license.md
 
 Data descriptor and sample notebooks for the Emory Breast Imaging Dataset (EMBED) hosted on the AWS Open Data Program
 
-**EMBED Overview:**  
+**EMBED Overview:**
 
 **I. Summary**
 
@@ -15,7 +15,7 @@ EMBED contains 364,000 screening and diagnostic mammographic exams for 110,000 p
 
 **II. Primer on Mammography**
 
-A full discussion on screening mammography is beyond the scope of this documentation, however we will provide a brief primer. In the United States, women are recommended annual screening mammography beginning at age 40 and biennially after age 55. Screening mammograms are recommended for **asymptomatic** patients to detect occult breast cancer. Approximately 90% of screeninng mammograms are normal, and assigned a BIRADS 1 (negative) or BIRADS 2 (benign) after which the woman will return to screening in 1-2 years. However, approximately 10% of screening exams demonstrate an abnormality that requires further imaging and are assigned BIRADS 0 (additional evaluation). BIRADS 3 is a special case where there is low suspicion and the woman will return for screening again in 6 months.
+A full discussion on screening mammography is beyond the scope of this documentation, however we will provide a brief primer. In the United States, women are recommended annual screening mammography beginning at age 40 and biennially after age 55. Screening mammograms are recommended for **asymptomatic** patients to detect occult breast cancer. Approximately 90% of screening mammograms are normal, and assigned a BIRADS 1 (negative) or BIRADS 2 (benign) after which the woman will return to screening in 1-2 years. However, approximately 10% of screening exams demonstrate an abnormality that requires further imaging and are assigned BIRADS 0 (additional evaluation). BIRADS 3 is a special case where there is low suspicion and the woman will return for screening again in 6 months.
 
 If a woman is assigned BIRADS 0, she will proceed to diagnostic mammogram with special views including compression and magnification paddles. She may also undergo concurrent ultrasound. In 2/3 of diagnostic mammograms, the finding disappears or is resolved as benign and the woman will be assigned BIRADS 1 or 2. In 1/3 of diagnostic mammograms, the finding persists and the woman is assigned a BIRADS score of 4 (suspicious) or 5 (highly suspicious) and will proceed to biopsy. Approximately 2/3 of biopsy results are benign and the woman will return to annual screening. Approximately 1/3 of biopsy results are malignant in which case she will go for further imaging (MRI to evaluate extent of disease) and/or surgical resection (lumpectomy or mastectomy). The patient will receive diagnostic mammograms for several years after this before returning to annual screening.
 
